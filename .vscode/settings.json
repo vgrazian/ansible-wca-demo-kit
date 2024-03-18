@@ -2,5 +2,6 @@
     "ansible.python.interpreterPath": "/usr/bin/python3",
     "files.associations": {
         "main.yml": "ansible"
-    }
+    },
+    "wcaForGP.enable": true
 }
